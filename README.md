@@ -1,1 +1,1 @@
-This app is made with Meteor.js.  Visitors will be allowed to put a link to their Twitter profile.  
+This app is made with Meteor.js.  Visitors will be allowed to put a link to their Twitter profile.  Understand the uses of block variables in JS projects.    
